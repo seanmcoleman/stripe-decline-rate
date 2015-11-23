@@ -8,7 +8,6 @@ class StripeDeclineRate
   end
 
   def latest
-    #sun - sat
     saturday = starting_saturday
     sunday = starting_sunday
 
