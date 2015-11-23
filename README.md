@@ -1,5 +1,5 @@
 # Stripe Decline Rate
-Get visibility into actual ratios of successful charges and failed charge attempts unique to card numbers.'
+Get visibility into actual ratios of successful charges and failed charge attempts unique to card numbers.
 
 ## Install
     gem install 'stripe-decline-rate'
